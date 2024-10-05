@@ -61,11 +61,11 @@
             //                     |      |      |      |        |  |       |      |       |       |
 
             bindings = <
-&kp ESC    &kp F1               &kp F2               &kp F3                &kp F4                   &kp F5                                      &kp F6  &kp F7  &kp F8  &kp F9         &kp F11  &kp F12
-&kp TAB    &kp NB_EXCL          &kp NB_DQT           &kp NB_HASH           &kp NB_DOLLAR            &kp NB_PRCNT                                &kp N7  &kp N8  &kp N9  &trans         &trans   &trans
-&kp LSHFT  &kp NB_AMPERSAND     &kp NB_SLASH         &kp NB_AT             &kp NB_LEFT_PARENTHESIS  &kp NB_RIGHT_PARENTHESIS                    &kp N4  &kp N5  &kp N6  &trans         &trans   &trans
-&kp LT     &kp NB_GREATER_THAN  &kp NB_LEFT_BRACKET  &kp NB_RIGHT_BRACKET  &kp NB_LEFT_BRACE        &kp NB_RIGHT_BRACE        &trans    &trans  &kp N1  &kp N2  &kp N3  &kp NB_PERIOD  &trans   &trans
-                                                     &trans                &trans                   &trans                    &trans    &kp N0  &trans  &trans  &trans
+&kp ESC           &kp F1               &kp F2               &kp F3                &kp F4                   &kp F5                                      &kp F6  &kp F7  &kp F8  &kp F9         &kp F11  &kp F12
+&kp TAB           &kp NB_EXCL          &kp NB_DQT           &kp NB_HASH           &kp NB_DOLLAR            &kp NB_PRCNT                                &kp N7  &kp N8  &kp N9  &trans         &trans   &trans
+&kp LSHFT         &kp NB_AMPERSAND     &kp NB_SLASH         &kp NB_AT             &kp NB_LEFT_PARENTHESIS  &kp NB_RIGHT_PARENTHESIS                    &kp N4  &kp N5  &kp N6  &trans         &trans   &trans
+&kp NB_LESS_THAN  &kp NB_GREATER_THAN  &kp NB_LEFT_BRACKET  &kp NB_RIGHT_BRACKET  &kp NB_LEFT_BRACE        &kp NB_RIGHT_BRACE        &trans    &trans  &kp N1  &kp N2  &kp N3  &kp NB_PERIOD  &trans   &trans
+                                                            &trans                &trans                   &trans                    &trans    &kp N0  &trans  &trans  &trans
             >;
         };
 
