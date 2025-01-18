@@ -50,6 +50,8 @@
 &kp LEFT_CONTROL  &Hold_Tap_KP_KP LEFT_ALT Z  &kp X   &kp C     &kp V     &kp B   &none        &kp NB_UMLAUT                     &kp N                           &kp M   &kp COMMA  &kp DOT  &kp NB_MINUS    &Hold_Tap_KP_KP NB_ASTERISK NB_SQT
                                                       &kp LALT  &kp LGUI  &mo 1   &kp SPACE    &Hold_Tap_KP_KP LEFT_SHIFT ENTER  &Hold_Tap_Layer_KP 2 BACKSPACE  &mo 0   &kp RGUI
             >;
+
+            sensor-bindings = <&inc_dec_kp K_SCROLL_UP K_SCROLL_DOWN>;
         };
 
         Symbols {
